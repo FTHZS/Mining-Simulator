@@ -1,0 +1,67 @@
+
+|| anfaal {
+Password = "ameer"
+JoinDate = "2025-01-31"
+BlocksMined = 0
+EventsActivated = 0
+toggleDelay = true
+Rarest ore discovered = Stone
+Inventory = [(Stone, 0, 0, 0, 0), (Coal, 0, 0, 0, 0), (Zinc, 0, 0, 0, 0), (Copper, 0, 0, 0, 0), (Iron, 0, 0, 0, 0), (Silver, 0, 0, 0, 0), (Quartz, 0, 0, 0, 0), (Granite, 0, 0, 0, 0), (Opal, 0, 0, 0, 0), (Gold, 0, 0, 0, 0), (Topaz, 0, 0, 0, 0), (Obsidian, 0, 0, 0, 0), (Sapphire, 0, 0, 0, 0), (Ruby, 0, 0, 0, 0), (Tungsten, 0, 0, 0, 0), (Emerald, 0, 0, 0, 0), (Bedrock, 0, 0, 0, 0), (Diamond, 0, 0, 0, 0), (Platinum, 0, 0, 0, 0), (Radium, 0, 0, 0, 0), (Plutonium, 0, 0, 0, 0), (Stalacite, 0, 0, 0, 0), (Crystobalite, 0, 0, 0, 0), (Moissonite, 0, 0, 0, 0), (Manatite, 0, 0, 0, 0), (Ambrosia, 0, 0, 0, 0), (Duratite, 0, 0, 0, 0), (Runestone, 0, 0, 0, 0), (Adamantine, 0, 0, 0, 0), (Darwinium, 0, 0, 0, 0), (Stormium, 0, 0, 0, 0), (Electrix, 0, 0, 0, 0), (Tempest stone, 0, 0, 0, 0), (Illusil, 0, 0, 0, 0), (Aetherium, 0, 0, 0, 0)]
+}
+
+
+
+|| Abhinav {
+Password = "letmein"
+JoinDate = "2025-01-30"
+BlocksMined = 1015315
+EventsActivated = 48375
+toggleDelay = false
+Rarest ore discovered = Transdimensional Plutonium [1 in 672000]
+Inventory = [(Stone, 226231, 2548, 28311, 273), (Coal, 178725, 2034, 22387, 195), (Zinc, 148512, 1725, 18909, 162), (Copper, 88857, 1040, 11172, 87), (Iron, 44565, 511, 5537, 46), (Silver, 42622, 524, 5273, 52), (Quartz, 37074, 387, 4614, 41), (Granite, 22089, 252, 2733, 25), (Opal, 14131, 180, 1847, 14), (Gold, 9346, 87, 1098, 10), (Topaz, 8029, 82, 967, 12), (Obsidian, 7392, 72, 967, 7), (Sapphire, 6268, 91, 792, 7), (Ruby, 6289, 79, 759, 9), (Tungsten, 5024, 49, 640, 6), (Emerald, 4314, 55, 497, 6), (Bedrock, 3012, 37, 390, 2), (Diamond, 2874, 43, 354, 2), (Platinum, 2020, 34, 254, 1), (Radium, 1799, 23, 234, 2), (Plutonium, 1369, 9, 172, 1), (Stalacite, 5501, 58, 697, 9), (Crystobalite, 4607, 52, 560, 0), (Moissonite, 3594, 42, 450, 4), (Manatite, 2602, 27, 325, 2), (Ambrosia, 2089, 25, 256, 2), (Duratite, 1894, 16, 239, 4), (Runestone, 1454, 12, 201, 1), (Adamantine, 967, 9, 118, 1), (Darwinium, 684, 6, 81, 1), (Stormium, 4120, 53, 542, 8), (Electrix, 2406, 31, 277, 2), (Tempest stone, 867, 11, 117, 1), (Illusil, 615, 7, 60, 0), (Aetherium, 303, 4, 30, 0)]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|| anfaalboy1 {
+Password = "anfaal"
+JoinDate = "2025-02-17"
+BlocksMined = 1249
+EventsActivated = 32
+toggleDelay = true
+Rarest ore discovered = None
+Inventory = [(Stone, 282, 2, 36, 0), (Coal, 220, 2, 23, 0), (Zinc, 207, 1, 21, 0), (Copper, 96, 0, 13, 0), (Iron, 52, 0, 9, 0), (Silver, 58, 0, 5, 0), (Quartz, 42, 2, 6, 0), (Granite, 32, 0, 4, 0), (Opal, 16, 1, 3, 0), (Gold, 22, 0, 2, 0), (Topaz, 8, 0, 1, 0), (Obsidian, 3, 0, 0, 0), (Sapphire, 10, 0, 5, 0), (Ruby, 12, 0, 1, 0), (Tungsten, 6, 0, 0, 0), (Emerald, 7, 0, 0, 0), (Bedrock, 4, 0, 1, 0), (Diamond, 5, 0, 0, 0), (Platinum, 2, 0, 0, 0), (Radium, 1, 0, 0, 0), (Plutonium, 0, 0, 1, 0), (Stalacite, 7, 0, 0, 0), (Crystobalite, 4, 0, 0, 0), (Moissonite, 3, 0, 2, 0), (Manatite, 1, 0, 0, 0), (Ambrosia, 0, 0, 0, 0), (Duratite, 0, 0, 0, 0), (Runestone, 1, 0, 0, 0), (Adamantine, 0, 0, 0, 0), (Darwinium, 1, 0, 1, 0), (Stormium, 2, 0, 0, 0), (Electrix, 2, 0, 1, 0), (Tempest stone, 0, 0, 0, 0), (Illusil, 0, 0, 0, 0), (Aetherium, 0, 0, 0, 0)]
+}
+
+
+
+|| 2 {
+Password = "2"
+JoinDate = "2025-02-24"
+BlocksMined = 0
+EventsActivated = 0
+toggleDelay = true
+Rarest ore discovered = None
+Inventory = []
+}
+
+|| Athul {
+Password = "Athul123"
+JoinDate = "2025-08-02"
+BlocksMined = 0
+EventsActivated = 0
+toggleDelay = true
+Rarest ore discovered = None
+Inventory = []
+}

@@ -1,0 +1,15 @@
+
+add a search specific mineral in index, and filter by collection, and return to menu
+
+add filter by event and return to menu for inventory
+
+add shop
+add pickaxes, gear
+
+add settings
+
+obscure userbase.txt
+
+number system class to convert huge numbers into 'x.xxx U' format for rarities
+
+fix rarest ore discovered function
